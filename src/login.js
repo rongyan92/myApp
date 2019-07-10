@@ -2,7 +2,8 @@
 import React from 'react';
 import './login.css';
 // 按需导入组件
-import { Icon ,Form ,Button ,Divider} from 'semantic-ui-react'
+import { Icon ,Form ,Button ,Divider} from 'semantic-ui-react';
+// import axios from 'axios';
 
 class Login extends React.Component {
     render (){
